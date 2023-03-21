@@ -1,0 +1,125 @@
+#twitter_img
+{
+    display: flex;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-size: cover;
+	background-color: #18191f;
+	margin: 0 auto;
+	transition: box-shadow ease 360ms;
+	flex: 1;
+    position: absolute;
+    top: 20vh;
+    border: 2px solid black;
+}
+.icon
+{
+    display: flex;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-size: cover;
+	background-color: #18191f;
+	margin: 0 auto;
+	transition: box-shadow ease 360ms;
+	flex: 1;
+    position: absolute;
+    top: 20vh;
+    border: 2px solid black;
+}
+
+.texto
+{
+    color: white;
+    flex: 1;
+    min-width: 150px;
+    position: relative;
+    top: 0;
+    text-align: center;
+}
+
+.txt1 {
+    color: white;
+    flex: 1;
+    min-width: 150px;
+    position: relative;
+    top: 35vh;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Poppins';
+    text-shadow: 1px 5px rgba(0, 0, 0, 0.521);
+}
+
+.txt_pr2
+{
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'Poppins';
+    text-shadow: 1px 5px rgba(0, 0, 0, 0.521);
+}
+
+.principal
+{
+  display: inline;
+  position: absolute;
+  justify-content: center;
+  text-align: center;
+  top: 38em;
+  background: #0f0f10;
+  width: 29em;
+  height: max-content;
+  margin: 0 auto;
+  border: 3px solid #0f0f10;
+  border-radius: 10px;
+}
+
+.principal h2
+{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Poppins';
+    text-shadow: 1px 5px rgba(0, 0, 0, 0.521);
+    padding: 10px;
+}
+.principal h3{
+    padding: 50px;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Poppins';
+  }
+
+.principal #insta_img
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: #0f0f10;
+	margin: 0 auto;
+    position: absolute;
+    top: 17.5em;
+    right: 20em;
+    border: 2px solid #0f0f10;
+}
+
+.principal #next_h2
+{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Poppins';
+    text-shadow: 1px 5px rgba(0, 0, 0, 0.521);
+}
+
+.principal #twitter_img
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: #0f0f10;
+	margin: 0 auto;
+    position: absolute;
+    top: 4.5em;
+    right: 20em;
+    border: 2px solid #0f0f10;
+}
+
